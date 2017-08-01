@@ -1,0 +1,25 @@
+{
+    "SingleUrl": "www.netflix.com",
+    "Chrome": [
+        "mail.google.com",
+        "www.facebook.com"
+    ],
+    "Chrome-inco": [
+        "www.google.com"
+    ],
+    "Firefox": [
+        "mail.google.com"
+    ],
+    "Applications": {
+        "CHROME": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s",
+        "INCOGNITO_CHROME": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s --incognito",
+        "FIREFOX": "C:/Program Files (x86)/Mozilla Firefox/firefox.exe %s",
+        "Others": [
+            "C:/Users/divmodi/AppData/Local/slack/slack.exe",
+            "C:/Program Files (x86)/Microsoft VS Code/Code.exe",
+            "C:/Program Files/Git/git-bash.exe",
+            "C:/Program Files (x86)/Microsoft Office/Office16/OUTLOOK.EXE",
+            "C:/Program Files (x86)/Cisco Systems/Cisco Jabber/CiscoJabber.exe"
+        ]
+    }
+}
